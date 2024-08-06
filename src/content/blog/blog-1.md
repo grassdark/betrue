@@ -1,5 +1,5 @@
 ---
-title: 博客一
+title: STM32串口
 author: zyr
 pubDatetime: 2024-08-01T11:00:00+08:00
 slug: blog-1
